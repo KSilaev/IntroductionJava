@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17ce16ce-3445-4daf-808c-fdc55f56aa10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork1/HomeWork1.java" afterDir="false" />
+    <list default="true" id="17ce16ce-3445-4daf-808c-fdc55f56aa10" name="Changes" comment="Added task 151">
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork1/Task151.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681639317365</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added task 151">
+      <created>1681746928010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681746928010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added task 151" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task 151" />
   </component>
 </project>
