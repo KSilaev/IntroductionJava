@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17ce16ce-3445-4daf-808c-fdc55f56aa10" name="Changes" comment="Добавил задачу 3 из Д/З 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork3/Task4.java" afterDir="false" />
+    <list default="true" id="17ce16ce-3445-4daf-808c-fdc55f56aa10" name="Changes" comment="Добавил задачу 4 из Д/З 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="HomeWork3.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork3.Task1" />
       <module name="IntroductionJava" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taas3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.Taas3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.Task1" />
       <module name="IntroductionJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.HomeWork3.Task2" />
         <item itemvalue="Application.HomeWork3.Task1" />
-        <item itemvalue="Application.Taas3" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682412295431</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Добавил задачу 4 из Д/З 3">
+      <created>1682419119084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682419119084</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +215,7 @@
     <MESSAGE value="Добавил задачу 1 из Д/З 3" />
     <MESSAGE value="Добавил задачу 2 из Д/З 3" />
     <MESSAGE value="Добавил задачу 3 из Д/З 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил задачу 3 из Д/З 3" />
+    <MESSAGE value="Добавил задачу 4 из Д/З 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил задачу 4 из Д/З 3" />
   </component>
 </project>
