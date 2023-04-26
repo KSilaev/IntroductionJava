@@ -20,6 +20,6 @@ public class Task20 {
             else if (braces.isEmpty() || braces.pop() != c)
                 return false;
         }
-        return true; //braces.isEmpty();
+        return true;
     }
 }
