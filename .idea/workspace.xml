@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17ce16ce-3445-4daf-808c-fdc55f56aa10" name="Changes" comment="Добавил задачу 20 из Д/З 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/Task20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Task20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +49,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task20">
-    <configuration name="HomeWork3.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task2" />
+  <component name="RunManager" selected="Application.HomeWork5.Task1">
+    <configuration name="HomeWork5.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.Task1" />
       <module name="IntroductionJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork3.*" />
+          <option name="PATTERN" value="HomeWork5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork5.Task1" />
         <item itemvalue="Application.Task20" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.HomeWork3.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682525908862</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Добавил задачу 20 из Д/З 4">
+      <created>1682526622352</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682526622352</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
