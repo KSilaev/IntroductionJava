@@ -82,12 +82,8 @@ public class NoteList {
 
         @Override
         public String toString() {
-            return String.format("number: %d, brand: %s, RAM: %d, HD: %d, System: %s, colour: %s", number, brand, ram, hd,
+            return String.format("number: %d, brand: %s, RAM: %d, HD: %d, System: %s, colour: %s, price: %d", number, brand, ram, hd,
                     system, colour, price);
-        }
-
-        public static char[] getPrice(NoteList[] store, String nextLine) {
-            return null;
         }
 
 }

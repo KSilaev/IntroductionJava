@@ -27,10 +27,10 @@ public class Notebook {
             case 1:
                 System.out.println("Список ноутбуков: ");
                 System.out.println(Notebook_1);
-                System.out.println(Notebook_2.toString());
-                System.out.println(Notebook_3.toString());
-                System.out.println(Notebook_4.toString());
-                System.out.println(Notebook_5.toString());
+                System.out.println(Notebook_2);
+                System.out.println(Notebook_3);
+                System.out.println(Notebook_4);
+                System.out.println(Notebook_5);
                 break;
             case 2:
                 int hd = input.Int("Выберете объем диска: 256 ГБ, 128 ГБ, 512 ГБ, 1000 ГБ");
