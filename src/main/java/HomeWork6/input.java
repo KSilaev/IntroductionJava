@@ -13,19 +13,7 @@ public class input {
 
     public static String Str(String userText){
         System.out.println(userText);
-        String value = input.next();
-        return value;
+//        String value = input.next();
+        return input.next();
     }
-
-//    public static double Double(String userText){
-//        System.out.println(userText);
-//        double value = input.nextDouble();
-//        return value;
-//    }
-
-//    public static char Char(String userText){
-//        System.out.println(userText);
-//        char value = input.next().charAt(0);
-//        return value;
-//    }
 }

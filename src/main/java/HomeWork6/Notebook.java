@@ -30,7 +30,7 @@ public class Notebook {
                 System.out.println(Notebook_2);
                 System.out.println(Notebook_3);
                 System.out.println(Notebook_4);
-                System.out.println(Notebook_53);
+                System.out.println(Notebook_5);
                 break;
             case 2:
                 int hd = input.Int("Выберете объем диска: 256 ГБ, 128 ГБ, 512 ГБ, 1000 ГБ");
