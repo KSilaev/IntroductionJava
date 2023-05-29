@@ -13,7 +13,6 @@ public class input {
 
     public static String Str(String userText){
         System.out.println(userText);
-//        String value = input.next();
         return input.next();
     }
 }
